@@ -1,0 +1,8 @@
+Site copy
+
+Motorola
+Page builds from psd mockups
+
+Tools used: 
+HTML5/CSS/JavaScript/LESS
+Bootstrap, jQuery, TweenMax

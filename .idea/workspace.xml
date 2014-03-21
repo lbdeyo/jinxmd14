@@ -2,52 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="21706b47-c82f-4057-906a-bb8576268c2e" name="Default" comment="First commit&#10;">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/portfolio/1812_video.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vids/airforce.mp4" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/anchor.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vids/att.mp4" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vids/bart.mp4" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/portfolio/calvin.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vids/calvin.mp4" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vids/calvin.ogv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/portfolio/cisco.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/container_bg.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/container_bg2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vids/criticalreview.mp4" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/portfolio/dionysium_logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/portfolio/dionysium_video.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/portfolio/dragontown.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/favicon.ico" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/portfolio/ford.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vids/ford.mp4" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vids/ford.ogv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vids/home_movie.mp4" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vids/hq.mp4" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vids/invisiblefrontier.mp4" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/portfolio/jinxmagazine.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/jinxmd14_aquatic.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vids/kohler.mp4" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/portfolio/plaza.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vids/plaza.mp4" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vids/plaza.ogv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vids/superFlashCards.mp4" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vids/superFlashCards.oggtheora.ogv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vids/wat.mp4" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vids/wat.oggtheora.ogv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/portfolio/weblords.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vids/weblords_showreel.mp4" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vids/weblords_showreel.oggtheora.ogv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/portfolio/whataburger.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/Draggable.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/jsLinters/jshint.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/main.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/main.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/main.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/art/logo.js" afterPath="$PROJECT_DIR$/js/logo.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/art/jinxmd14_aquatic.ai" afterPath="$PROJECT_DIR$/art/jinxmd14_aquatic.ai" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/art/logo.fla" afterPath="$PROJECT_DIR$/art/logo.fla" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/art/logo.html" afterPath="$PROJECT_DIR$/art/logo.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
@@ -72,10 +26,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="50" column="14" selection-start="1784" selection-end="1784" vertical-scroll-proportion="-31.25" vertical-offset="0" max-vertical-offset="1560">
+            <state line="5" column="0" selection-start="178" selection-end="178" vertical-scroll-proportion="0.06410257" vertical-offset="0" max-vertical-offset="1575">
               <folding />
             </state>
           </provider>
@@ -84,16 +38,16 @@
       <file leaf-file-name="main.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/js/main.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="25" column="52" selection-start="888" selection-end="888" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1185">
+            <state line="25" column="52" selection-start="888" selection-end="888" vertical-scroll-proportion="0.0" vertical-offset="375" max-vertical-offset="1185">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="main.less" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="main.less" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/main.less">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="39" column="1" selection-start="714" selection-end="714" vertical-scroll-proportion="0.3500432" vertical-offset="180" max-vertical-offset="3270">
+            <state line="14" column="4" selection-start="280" selection-end="280" vertical-scroll-proportion="-3.75" vertical-offset="120" max-vertical-offset="2985">
               <folding />
             </state>
           </provider>
@@ -114,8 +68,8 @@
       <list>
         <option value="$PROJECT_DIR$/art/logo.html" />
         <option value="$PROJECT_DIR$/js/main.js" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/css/main.less" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -284,14 +238,6 @@
     </key>
   </component>
   <component name="RunManager">
-    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
-      <option name="VMOptions" />
-      <option name="arguments" />
-      <option name="filePath" />
-      <option name="scope" value="ALL" />
-      <option name="testName" />
-      <method />
-    </configuration>
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
       <option name="VMOptions" />
       <option name="arguments" />
@@ -302,15 +248,23 @@
       <option name="showConsoleOnStdOut" value="false" />
       <method />
     </configuration>
+    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
+      <option name="VMOptions" />
+      <option name="arguments" />
+      <option name="filePath" />
+      <option name="scope" value="ALL" />
+      <option name="testName" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" singleton="true" config-file="">
+      <envs />
+      <method />
+    </configuration>
     <configuration default="true" type="JSTestDriver:ConfigurationType" factoryName="JsTestDriver">
       <setting name="configLocationType" value="CONFIG_FILE" />
       <setting name="settingsFile" value="" />
       <setting name="serverType" value="INTERNAL" />
       <setting name="preferredDebugBrowser" value="CHROME" />
-      <method />
-    </configuration>
-    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" singleton="true" config-file="">
-      <envs />
       <method />
     </configuration>
     <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug" singleton="true">
@@ -323,6 +277,23 @@
     <list size="0" />
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="false" SSL_PROTOCOLS="sslv3">
+    <option name="USER" value="" />
+    <option name="PASSWORD" value="" />
+    <option name="mySSHConnectionTimeout" value="30000" />
+    <option name="mySSHReadTimeout" value="30000" />
+    <option name="LAST_MERGED_REVISION" />
+    <option name="MERGE_DRY_RUN" value="false" />
+    <option name="MERGE_DIFF_USE_ANCESTRY" value="true" />
+    <option name="UPDATE_LOCK_ON_DEMAND" value="false" />
+    <option name="IGNORE_SPACES_IN_MERGE" value="false" />
+    <option name="CHECK_NESTED_FOR_QUICK_MERGE" value="false" />
+    <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
+    <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
+    <option name="FORCE_UPDATE" value="false" />
+    <option name="IGNORE_EXTERNALS" value="false" />
+    <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="21706b47-c82f-4057-906a-bb8576268c2e" name="Default" comment="" />
@@ -347,11 +318,11 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.35766423" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.35766423" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -371,6 +342,27 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="50" column="14" selection-start="1784" selection-end="1784" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1560">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="25" column="52" selection-start="888" selection-end="888" vertical-scroll-proportion="0.0" vertical-offset="375" max-vertical-offset="1185">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/main.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="39" column="1" selection-start="714" selection-end="714" vertical-scroll-proportion="0.0" vertical-offset="180" max-vertical-offset="3270">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="97" column="0" selection-start="3450" selection-end="3450" vertical-scroll-proportion="0.0" vertical-offset="431" max-vertical-offset="1575">
@@ -425,9 +417,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/main.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="0" selection-start="2459" selection-end="2459" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="120">
-          <folding />
-        </state>
+        <state line="2" column="0" selection-start="2459" selection-end="2459" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="120" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/js/main.js">
@@ -437,16 +427,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/css/main.less">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="50" column="14" selection-start="1784" selection-end="1784" vertical-scroll-proportion="-31.25" vertical-offset="0" max-vertical-offset="1560">
+        <state line="14" column="4" selection-start="280" selection-end="280" vertical-scroll-proportion="-3.75" vertical-offset="120" max-vertical-offset="2985">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/main.less">
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="39" column="1" selection-start="714" selection-end="714" vertical-scroll-proportion="0.3500432" vertical-offset="180" max-vertical-offset="3270">
+        <state line="5" column="0" selection-start="178" selection-end="178" vertical-scroll-proportion="0.06410257" vertical-offset="0" max-vertical-offset="1575">
           <folding />
         </state>
       </provider>
