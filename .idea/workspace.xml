@@ -2,16 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="21706b47-c82f-4057-906a-bb8576268c2e" name="Default" comment="First commit&#10;">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/flowtype.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/art/jinxmd14_aquatic.ai" afterPath="$PROJECT_DIR$/art/jinxmd14_aquatic.ai" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/art/logo.fla" afterPath="$PROJECT_DIR$/art/logo.fla" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/portfolio/motorola.png" afterPath="$PROJECT_DIR$/img/portfolio/motorola.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/portfolio/thingamatech.png" afterPath="$PROJECT_DIR$/img/portfolio/thingamatech.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/crossdomain.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/art/RECOVER_logo.fla" afterPath="$PROJECT_DIR$/art/RECOVER_logo.fla" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/container_bg.jpg" afterPath="$PROJECT_DIR$/img/container_bg.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/container_bg2.jpg" afterPath="$PROJECT_DIR$/img/container_bg2.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/jinxmd14_aquatic.jpg" afterPath="$PROJECT_DIR$/img/jinxmd14_aquatic.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/art/porftolioImages.ai" afterPath="$PROJECT_DIR$/art/porftolioImages.ai" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/art/logo.html" afterPath="$PROJECT_DIR$/art/logo.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/logo.js" afterPath="$PROJECT_DIR$/js/logo.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/main.css" afterPath="$PROJECT_DIR$/css/main.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/main.js" afterPath="$PROJECT_DIR$/js/main.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/main.less" afterPath="$PROJECT_DIR$/css/main.less" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
@@ -36,10 +34,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="22" column="14" selection-start="686" selection-end="686" vertical-scroll-proportion="0.28846154" vertical-offset="0" max-vertical-offset="2850">
+            <state line="17" column="14" selection-start="505" selection-end="505" vertical-scroll-proportion="-5.1" vertical-offset="0" max-vertical-offset="3075">
               <folding>
                 <element signature="n#style#0;n#button#0;n#div#0;n#div#1;n#body#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
@@ -47,19 +45,28 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="main.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/js/main.js">
+      <file leaf-file-name="crossdomain.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/crossdomain.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="33" column="0" selection-start="1159" selection-end="1159" vertical-scroll-proportion="-19.038462" vertical-offset="0" max-vertical-offset="1365">
+            <state line="5" column="22" selection-start="104" selection-end="104" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="165">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="main.less" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="main.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/main.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="76" column="18" selection-start="2291" selection-end="2295" vertical-scroll-proportion="-36.26923" vertical-offset="197" max-vertical-offset="1365">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.less" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/main.less">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="65" column="19" selection-start="1236" selection-end="1236" vertical-scroll-proportion="-4.8" vertical-offset="735" max-vertical-offset="4185">
+            <state line="25" column="0" selection-start="479" selection-end="479" vertical-scroll-proportion="0.32411408" vertical-offset="0" max-vertical-offset="4485">
               <folding />
             </state>
           </provider>
@@ -98,14 +105,16 @@
       <list>
         <option value="$PROJECT_DIR$/art/logo.html" />
         <option value="$PROJECT_DIR$/js/main.js" />
-        <option value="$PROJECT_DIR$/css/main.less" />
+        <option value="$PROJECT_DIR$/crossdomain.xml" />
+        <option value="$PROJECT_DIR$/logo_output.html" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/css/main.less" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1438" />
-    <option name="y" value="50" />
+    <option name="x" value="1259" />
+    <option name="y" value="28" />
     <option name="width" value="1050" />
     <option name="height" value="1351" />
   </component>
@@ -333,14 +342,14 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1438" y="50" width="1050" height="1351" extended-state="0" />
+    <frame x="1259" y="28" width="1050" height="1351" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.33527696" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24975705" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33527696" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -369,7 +378,11 @@
     </option>
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+    </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/index.html">
@@ -465,16 +478,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js/main.js">
+    <entry file="file://$PROJECT_DIR$/crossdomain.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="33" column="0" selection-start="1159" selection-end="1159" vertical-scroll-proportion="-19.038462" vertical-offset="0" max-vertical-offset="1365">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/main.less">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="65" column="19" selection-start="1236" selection-end="1236" vertical-scroll-proportion="-4.8" vertical-offset="735" max-vertical-offset="4185">
+        <state line="5" column="22" selection-start="104" selection-end="104" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="165">
           <folding />
         </state>
       </provider>
@@ -486,12 +492,26 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/js/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="76" column="18" selection-start="2291" selection-end="2295" vertical-scroll-proportion="-36.26923" vertical-offset="197" max-vertical-offset="1365">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="14" selection-start="686" selection-end="686" vertical-scroll-proportion="0.28846154" vertical-offset="0" max-vertical-offset="2850">
+        <state line="17" column="14" selection-start="505" selection-end="505" vertical-scroll-proportion="-5.1" vertical-offset="0" max-vertical-offset="3075">
           <folding>
             <element signature="n#style#0;n#button#0;n#div#0;n#div#1;n#body#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/main.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="25" column="0" selection-start="479" selection-end="479" vertical-scroll-proportion="0.32411408" vertical-offset="0" max-vertical-offset="4485">
+          <folding />
         </state>
       </provider>
     </entry>
