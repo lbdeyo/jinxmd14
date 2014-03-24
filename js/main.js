@@ -1,6 +1,7 @@
 var canvas, stage, exportRoot;
 
 function init() {
+
     canvas = document.getElementById("logoCanvas");
     exportRoot = new lib.logo();
 
@@ -27,10 +28,21 @@ function init() {
     TweenMax.to("#portfolioRow3", 1,  {alpha: 1, delay: 3});
     TweenMax.to("#portfolioRow4", 1,  {alpha: 1, delay: 3.5});
     TweenMax.to("#portfolioRow5", 1,  {alpha: 1, delay: 4});
+    //$(".portfolioRow").css("opacity", 0);
 
     addPortfolioListeners();
 
 }
+
+function onWindowResize(){
+    if ($(window).width() < 700)
+    {
+        $("#logoCanvas").attr("width", "350px");
+    }
+}
+
+
+
 
 function addPortfolioListeners()
 {

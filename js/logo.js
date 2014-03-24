@@ -4,10 +4,10 @@ var p; // shortcut to reference prototypes
 
 // library properties:
 lib.properties = {
-	width: 348,
+	width: 302,
 	height: 249,
 	fps: 32,
-	color: "#444444",
+	color: "#330000",
 	manifest: []
 };
 
@@ -25,7 +25,7 @@ lib.properties = {
 
 	// estd
 	this.instance = new lib.estd();
-	this.instance.setTransform(103,18.8,1,1,0,0,0,48,12.8);
+	this.instance.setTransform(61,15.8,1,1,0,0,0,48,12.8);
 	this.instance.alpha = 0;
 	this.instance._off = true;
 
@@ -33,7 +33,7 @@ lib.properties = {
 
 	// 1998
 	this.instance_1 = new lib._1998();
-	this.instance_1.setTransform(283,18.8,1,1,0,0,0,48,12.8);
+	this.instance_1.setTransform(241,15.8,1,1,0,0,0,48,12.8);
 	this.instance_1.alpha = 0;
 	this.instance_1._off = true;
 
@@ -41,35 +41,35 @@ lib.properties = {
 
 	// topRightLine
 	this.instance_2 = new lib.topRightLine();
-	this.instance_2.setTransform(231.4,24.1,0.037,1,0,0,0,54,0);
+	this.instance_2.setTransform(189.4,21.1,0.037,1,0,0,0,54,0);
 	this.instance_2._off = true;
 
-	this.timeline.addTween(cjs.Tween.get(this.instance_2).wait(75).to({_off:false},0).to({scaleX:1,x:283.4},4).wait(30));
+	this.timeline.addTween(cjs.Tween.get(this.instance_2).wait(75).to({_off:false},0).to({scaleX:1,x:241.4},4).wait(30));
 
 	// topLeftLine
 	this.instance_3 = new lib.topLeftLine();
-	this.instance_3.setTransform(145.4,24.1,0.157,1,0,0,0,51,0);
+	this.instance_3.setTransform(103.4,21.1,0.157,1,0,0,0,51,0);
 	this.instance_3._off = true;
 
-	this.timeline.addTween(cjs.Tween.get(this.instance_3).wait(79).to({_off:false},0).to({scaleX:1,x:102.4},4).wait(28));
+	this.timeline.addTween(cjs.Tween.get(this.instance_3).wait(79).to({_off:false},0).to({scaleX:1,x:60.4},4).wait(28));
 
 	// bottomLine
 	this.instance_4 = new lib.bottomLine();
-	this.instance_4.setTransform(193.4,234.1,0.076,1,0,0,0,144,0);
+	this.instance_4.setTransform(151.1,231.1,0.076,1,0,0,0,144,0);
 	this.instance_4._off = true;
 
 	this.timeline.addTween(cjs.Tween.get(this.instance_4).wait(82).to({_off:false},0).to({scaleX:1},5,cjs.Ease.get(1)).wait(22));
 
 	// crown
 	this.instance_5 = new lib.crown();
-	this.instance_5.setTransform(191.4,22.3,1,1,0,0,0,23.8,14.3);
+	this.instance_5.setTransform(151.1,19.3,1,1,0,0,0,23.8,14.3);
 	this.instance_5._off = true;
 
 	this.timeline.addTween(cjs.Tween.get(this.instance_5).wait(71).to({_off:false},0).to({_off:true},1).wait(1).to({_off:false},0).to({_off:true},1).wait(1).to({_off:false,alpha:0},0).to({alpha:1},9).wait(25));
 
 	// lbdeyoIs
 	this.instance_6 = new lib.lbdeyoIs();
-	this.instance_6.setTransform(187.7,62.5,1,1,0,0,0,72.8,15.2);
+	this.instance_6.setTransform(151.1,59.5,1,1,0,0,0,72.8,15.2);
 	this.instance_6.alpha = 0;
 	this.instance_6._off = true;
 
@@ -77,7 +77,7 @@ lib.properties = {
 
 	// multimediaDesign
 	this.instance_7 = new lib.multimediaDesign();
-	this.instance_7.setTransform(199.6,203.2,1,1,0,0,0,105.5,11.3);
+	this.instance_7.setTransform(151.1,200.2,1,1,0,0,0,105.5,11.3);
 	this.instance_7.alpha = 0;
 	this.instance_7._off = true;
 
@@ -85,12 +85,12 @@ lib.properties = {
 
 	// JINX
 	this.instance_8 = new lib.jinx();
-	this.instance_8.setTransform(171.6,133.3,1,1,0,0,0,147,76.4);
+	this.instance_8.setTransform(129.6,130.3,1,1,0,0,0,147,76.4);
 
 	this.timeline.addTween(cjs.Tween.get(this.instance_8).to({_off:true},1).wait(1).to({_off:false},0).to({_off:true},1).wait(1).to({_off:false,alpha:0},0).to({alpha:1},28).wait(77));
 
 }).prototype = p = new cjs.MovieClip();
-p.nominalBounds = new cjs.Rectangle(218.6,181.4,293.9,152.8);
+p.nominalBounds = new cjs.Rectangle(156,205.5,292,103);
 
 
 // symbols:
@@ -99,7 +99,7 @@ p.nominalBounds = new cjs.Rectangle(218.6,181.4,293.9,152.8);
 
 	// Layer 1
 	this.shape = new cjs.Shape();
-	this.shape.graphics.f().s("#FFFFFF").p("AobAAIQ3AA");
+	this.shape.graphics.f().s("#FFFFFF").ss(2).p("AobAAIQ3AA");
 	this.shape.setTransform(54,0);
 
 	this.addChild(this.shape);
@@ -112,7 +112,7 @@ p.nominalBounds = new cjs.Rectangle(-1,-1,110,2);
 
 	// Layer 1
 	this.shape = new cjs.Shape();
-	this.shape.graphics.f().s("#FFFFFF").p("An9AAIP7AA");
+	this.shape.graphics.f().s("#FFFFFF").ss(2).p("An9AAIP7AA");
 	this.shape.setTransform(51,0);
 
 	this.addChild(this.shape);
@@ -186,15 +186,14 @@ p.nominalBounds = new cjs.Rectangle(0,0,145.5,30.4);
 (lib.jinx = function() {
 	this.initialize();
 
-	// Layer 1
-	this.text = new cjs.Text("JINX", "130px 'Baskerville'", "#CCCDFD");
-	this.text.textAlign = "center";
-	this.text.lineHeight = 156;
-	this.text.setTransform(165,0);
+	// Layer 2
+	this.shape = new cjs.Shape();
+	this.shape.graphics.f("#FFFFFF").s().p("A2zIDIAAwEMAtnAAAIAAQEgA2UEsQAoAvA0AYQAzAWBBgBQA2AAAugPQAvgQAhgfQAlghASguQATgyAAhBIAAosIhjAAIAAIsQAAAlgLAfQgLAfgWAVQgUAXgeAMQgfANgkAAQgwAAgpgYQgggTgegkgAUcF6IB4AAIk2maIEkmEIh5AAIjsFAIjulAIh5AAIEmGGIk4GYIB5AAIEAlVgAEeF6IBgAAIAAseIhkAAIAAJvInKpvIhmAAIAAMeIBkAAIAAp8gAqfF6IBjAAIAAseIhjAAg");
+	this.shape.setTransform(168.5,78.6);
 
-	this.addChild(this.text);
+	this.addChild(this.shape);
 }).prototype = p = new cjs.Container();
-p.nominalBounds = new cjs.Rectangle(20,0,293.9,152.8);
+p.nominalBounds = new cjs.Rectangle(22.5,27.1,292,103);
 
 
 (lib.estd = function() {
@@ -234,7 +233,7 @@ p.nominalBounds = new cjs.Rectangle(0,0,47.6,28.6);
 
 	// Layer 1
 	this.shape = new cjs.Shape();
-	this.shape.graphics.f().s("#FFFFFF").p("A2fAAMAs/AAA");
+	this.shape.graphics.f().s("#FFFFFF").ss(2).p("A2fAAMAs/AAA");
 	this.shape.setTransform(144,0);
 
 	this.addChild(this.shape);
