@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="21706b47-c82f-4057-906a-bb8576268c2e" name="Default" comment="First commit&#10;">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/main.less" afterPath="$PROJECT_DIR$/css/main.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="21706b47-c82f-4057-906a-bb8576268c2e" name="Default" comment="First commit&#10;" />
     <ignored path="jinxmd14.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -31,7 +26,7 @@
       <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="170" column="10" selection-start="5447" selection-end="5447" vertical-scroll-proportion="0.9494098" vertical-offset="1987" max-vertical-offset="3150">
+            <state line="144" column="43" selection-start="4670" selection-end="4670" vertical-scroll-proportion="0.29173693" vertical-offset="1987" max-vertical-offset="3150">
               <folding>
                 <element signature="n#style#0;n#button#0;n#div#0;n#div#1;n#body#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <marker date="1395800780000" expanded="true" signature="4413:4500" placeholder="..." />
@@ -512,7 +507,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="170" column="10" selection-start="5447" selection-end="5447" vertical-scroll-proportion="0.9494098" vertical-offset="1987" max-vertical-offset="3150">
+        <state line="144" column="43" selection-start="4670" selection-end="4670" vertical-scroll-proportion="0.29173693" vertical-offset="1987" max-vertical-offset="3150">
           <folding>
             <element signature="n#style#0;n#button#0;n#div#0;n#div#1;n#body#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <marker date="1395800780000" expanded="true" signature="4413:4500" placeholder="..." />
