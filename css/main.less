@@ -13,7 +13,7 @@ body{
   background-image: url('../img/container_bg2.jpg' );
   background-repeat: no-repeat;
   background-color: black;
-//  font-family: Baskerville, Georgia, serif;
+  //  font-family: Baskerville, Georgia, serif;
   letter-spacing: .05em;
   color: @paleBlue;
 
@@ -21,12 +21,23 @@ body{
 
 a {
   color: rgb(115, 115, 255);
+  padding: 10px;
+  border-radius: 3px;
+  text-decoration: none;
+
+}
+
+a:hover {
+  background-color: @paleBlue;
+  color: black;
+  text-decoration: none;
+
 }
 
 
 
 .contactRow {
-  font-family: Baskerville, serif;
+  font-family: "rosewood-std-fill",sans-serif;
   margin-top: 15px;
   text-align: center;
   font-size: 1.5em;
@@ -40,8 +51,8 @@ h1 {
   padding-top: 20px;
   border-top: 1px solid @paleBlue;
   border-bottom: 1px dashed @paleBlue;
-//  text-transform: uppercase;
-//  font-variant: small-caps;
+  //  text-transform: uppercase;
+  //  font-variant: small-caps;
 
 }
 
@@ -57,8 +68,8 @@ h1 {
   font-size: 75px;
   line-height: 60px;
   padding-top: 4px;
-//  padding-right: 8px;
-//  padding-left: 3px;
+  //  padding-right: 8px;
+  //  padding-left: 3px;
 
 }
 
@@ -86,7 +97,7 @@ p {
   padding-top: 20px;
   padding-bottom: 20px;
   text-shadow: 2px 2px 2px black;
-//  border: 1px solid @paleBlue;
+  //  border: 1px solid @paleBlue;
 }
 
 .canvasWrapper {
@@ -118,56 +129,6 @@ p {
 
 
 
-.portfolioItem {
-  width: 300px;
-  height: 250px;
-//  display: inline-block;
-  margin: 0 auto;
-  font-size: 1em;
-  border-left: 1px solid #333333;
-  border-right: 1px solid #333333;
-  border-bottom: 1px solid #333333;
-  //  min-height: 250px;
-
-  img {
-    width: 297px;
-    padding-top: 10px;
-    border: 1px solid white;
-  }
-  h3 {
-    text-align: center;
-//    padding: 5px;
-//    font-family: Arial;
-//    font-weight: bold;
-//    text-transform: uppercase;
-    font-variant: small-caps;
-    background-image: url(../img/site_icon.png);
-    background-repeat: no-repeat;
-
-    a {
-      color: @paleBlue;
-      text-decoration: none;
-    }
-
-    a:hover {
-      color: black;
-      text-decoration: none;
-    }
-
-  }
-  h3:hover {
-    background-color: @paleBlue;
-    color: black;
-    border: none !important;
-  }
-
-  h3.vid {
-    background-image: url(../img/vid_icon.png);
-    background-repeat: no-repeat;
-    background-position: top left;
-  }
-}
-
 
 h5 {
   font-family:  Arial, Helvetica, sans-serif;
@@ -175,7 +136,7 @@ h5 {
 }
 
 .portfolioText {
-//  font-family:  Arial, Helvetica, sans-serif;
+  //  font-family:  Arial, Helvetica, sans-serif;
   font-size: 1.2em;
   padding: none;
 
@@ -190,8 +151,9 @@ h5 {
     text-align: left;
     font-size: 2em;
     text-decoration: none;
+
     text-transform: uppercase;
-    border: 0;
+//    border: 0;
   }
 
 }
@@ -223,7 +185,7 @@ video {
 
 .fordPromo {
   background-image: url('../img/portfolio/Ford-Logo-Large.jpg');
-//  background-position: top center;
+  //  background-position: top center;
 }
 
 .calvinPromo {
@@ -238,17 +200,17 @@ video {
 
 .jinxmagPromo {
 
-    background-image: url('../img/portfolio/jinxmagazine.png');
-    background-position: top center;
+  background-image: url('../img/portfolio/jinxmagazine.png');
+  background-position: top center;
 
 
 }
 
 @media screen and (max-width: 62em) {
 
-    body {
-      background-color: black; // set background to black for mobile to hide margin
-    }
+  body {
+    background-color: black; // set background to black for mobile to hide margin
+  }
 
   .container {
     background-image: url('../img/container_bg_mobile.jpg' );
@@ -280,7 +242,7 @@ video {
 
 
   h1 {
-    font-size:2.5em;
+    font-size:3.5em;
   }
 
   p {
