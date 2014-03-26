@@ -20,7 +20,7 @@ body{
 }
 
 a {
-  color: lightblue;
+  color: rgb(115, 115, 255);
 }
 
 
@@ -33,14 +33,14 @@ a {
 }
 
 h1 {
-  font-family: Baskerville, serif;
-  font-size: 3.4em;
+  font-family: "rosewood-std-fill",sans-serif;
+  font-size: 5em;
   text-align: center;
   padding-bottom: 20px;
   padding-top: 20px;
   border-top: 1px solid @paleBlue;
   border-bottom: 1px dashed @paleBlue;
-  text-transform: uppercase;
+//  text-transform: uppercase;
 //  font-variant: small-caps;
 
 }
@@ -250,12 +250,17 @@ video {
       background-color: black; // set background to black for mobile to hide margin
     }
 
-  #logoCanvas {
-    width: 350px;
+  .container {
+    background-image: url('../img/container_bg_mobile.jpg' );
+
+  }
+
+  #logoImage {
+    width: 310px;
   }
 
   .canvasWrapper {
-    width: 350px;
+    width: 310px;
     /* Firefox */
     display:-moz-box;
     -moz-box-pack:center;
